@@ -1,8 +1,6 @@
 # OAuth-Central
 
-## Current OAuth Workshop Video:
-
-[Workshop](https://drive.google.com/file/d/1GOdkHChTZtq8P7QMAYuDnSyfDBHlM90c/view?usp=sharing)
+## Current OAuth Workshop Video: [Workshop](https://drive.google.com/file/d/1GOdkHChTZtq8P7QMAYuDnSyfDBHlM90c/view?usp=sharing)
 
 ## OAuth History, Development, and RFCs
 Beginning with the OAuth (Open Authorization) discussion group in April of 2007, a small group of developers went on to write the 'OAuth Core 1.0 final draft' which would be released on December 4th of that same year. An ammendment to the Core protocol would be made (April 2009), resulting in OAuth 1.0a, which addresses a security vulnerability known as a "Session Fixation Attack". Ultimately, the OAuth 1.0 protocol was officialy published as an informational Request For Comments in [RFC 5849](https://datatracker.ietf.org/doc/html/rfc5849). Also note that the original design intentions of OAuth 1.0 were for the primary purpose of allowing API access to resources managed by a 3rd party. In other words, authorization. The use of OAuth as an authentication method (and little else), came about later as an alternate use case. While the OAuth 1.0a RFC 5849 was officially obsoleted by OAuth 2.0 [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749), it continues to be a valid protocol and you may still encounter it in the wild. For example, Evernote still manages access to it's Thrift API through OAuth 1.0a. If OAuth 1.0a should ever become of interest to you, please refer to this supplementary [README](https://github.com/bkieselEducational/OAuth-1.0a-from-Scratch).

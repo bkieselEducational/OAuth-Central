@@ -9,8 +9,7 @@ Even with the advent of OAuth 2.0, it's primary concern continues to be authoriz
 
 As this is meant to be a central hub for all of my OAuth related resources, aside from the links above, we will want to break up our OAuth related concerns into the following categories:
 1. [Application Authorization](https://github.com/bkieselEducational/OAuth-Client-Application-Authorization)
-2. [OAuth SDKs](https://github.com/bkieselEducational/OAuth-SDKs)
-3. [OAuth Libraries](https://github.com/bkieselEducational/OAuth-Libraries)
-4. [OAuth Concepts and Implementation](https://github.com/bkieselEducational/OAuth-Concepts-and-Implementation) 
-5. [Related Terminology](https://github.com/bkieselEducational/OAuth-Related-Terminology)
-6. [OAuth Gotchas](https://github.com/bkieselEducational/OAuth-Gotchas)
+2. [OAuth Libraries](https://github.com/bkieselEducational/OAuth-SDKs)
+3. [OAuth Concepts and Implementation](https://github.com/bkieselEducational/OAuth-Concepts-and-Implementation) 
+4. [Related Terminology](https://github.com/bkieselEducational/OAuth-Related-Terminology)
+5. [OAuth Gotchas](https://github.com/bkieselEducational/OAuth-Gotchas)

@@ -1,4 +1,4 @@
-# OAuth-Central
+# OAuth Central
 
 ## Current OAuth Workshop Video: [Workshop Video Link](https://drive.google.com/file/d/1GOdkHChTZtq8P7QMAYuDnSyfDBHlM90c/view?usp=sharing)
 
